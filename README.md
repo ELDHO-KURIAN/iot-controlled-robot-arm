@@ -33,4 +33,4 @@ this is how it will look after soldering everything :
  https://docs.blynk.cc/
    ```
    # COPY MY APP BY SCANNING THIS QR WITH BLYNK APP
-  <image src="image/" width="500"> 
+  <image src="image/icon.png" width="500"> 
