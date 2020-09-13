@@ -21,7 +21,7 @@ this is how it will look after soldering everything :
   <image src="image/IMG_20200906_174007.jpg" width="500"> 
     <image src="image/IMG_20200913_113213.jpg" width="500"> 
 <image src="image/IMG_20200913_113204.jpg" width="500"> 
-   <image src="image/IMG_20200913_113213.jpg" width="500"> 
+   <image src="image/IMG_20200913_113220.jpg" width="500"> 
 
  # LIBRARYS REQUIRED
    ```
